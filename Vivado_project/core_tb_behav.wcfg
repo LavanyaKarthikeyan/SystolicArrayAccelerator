@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="core_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="core_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,720.001 ns"></ZoomEndTime>
+      <Cursor1Time time="2,720.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="432"></NameColumnWidth>
+      <ValueColumnWidth column_width="224"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/core_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/error" type="array">
+      <obj_property name="ElementShortName">error[31:0]</obj_property>
+      <obj_property name="ObjectShortName">error[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/answer" type="array">
+      <obj_property name="ElementShortName">answer[127:0]</obj_property>
+      <obj_property name="ObjectShortName">answer[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/sfp_out" type="array">
+      <obj_property name="ElementShortName">sfp_out[127:0]</obj_property>
+      <obj_property name="ObjectShortName">sfp_out[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/load_q" type="logic">
+      <obj_property name="ElementShortName">load_q</obj_property>
+      <obj_property name="ObjectShortName">load_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/execute_q" type="logic">
+      <obj_property name="ElementShortName">execute_q</obj_property>
+      <obj_property name="ObjectShortName">execute_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/ififo_rd_q" type="logic">
+      <obj_property name="ElementShortName">ififo_rd_q</obj_property>
+      <obj_property name="ObjectShortName">ififo_rd_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/ififo_wr_q" type="logic">
+      <obj_property name="ElementShortName">ififo_wr_q</obj_property>
+      <obj_property name="ObjectShortName">ififo_wr_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/ofifo_rd_q" type="logic">
+      <obj_property name="ElementShortName">ofifo_rd_q</obj_property>
+      <obj_property name="ObjectShortName">ofifo_rd_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/A_xmem_q" type="array">
+      <obj_property name="ElementShortName">A_xmem_q[9:0]</obj_property>
+      <obj_property name="ObjectShortName">A_xmem_q[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/WEN_xmem_q" type="logic">
+      <obj_property name="ElementShortName">WEN_xmem_q</obj_property>
+      <obj_property name="ObjectShortName">WEN_xmem_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/CEN_xmem_q" type="logic">
+      <obj_property name="ElementShortName">CEN_xmem_q</obj_property>
+      <obj_property name="ObjectShortName">CEN_xmem_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/A_pmem_q" type="array">
+      <obj_property name="ElementShortName">A_pmem_q[10:0]</obj_property>
+      <obj_property name="ObjectShortName">A_pmem_q[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/WEN_pmem_q" type="logic">
+      <obj_property name="ElementShortName">WEN_pmem_q</obj_property>
+      <obj_property name="ObjectShortName">WEN_pmem_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/CEN_pmem_q" type="logic">
+      <obj_property name="ElementShortName">CEN_pmem_q</obj_property>
+      <obj_property name="ObjectShortName">CEN_pmem_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/acc_q" type="logic">
+      <obj_property name="ElementShortName">acc_q</obj_property>
+      <obj_property name="ObjectShortName">acc_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/start_q" type="logic">
+      <obj_property name="ElementShortName">start_q</obj_property>
+      <obj_property name="ObjectShortName">start_q</obj_property>
+   </wvobject>
+   <wvobject fp_name="/core_tb/choose_q" type="logic">
+      <obj_property name="ElementShortName">choose_q</obj_property>
+      <obj_property name="ObjectShortName">choose_q</obj_property>
+   </wvobject>
+</wave_config>

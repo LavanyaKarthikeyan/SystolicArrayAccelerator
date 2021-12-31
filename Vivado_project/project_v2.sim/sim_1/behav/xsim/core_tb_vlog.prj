@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_v2.srcs/sources_1/imports/sources/Ofifo.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/core.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/corelet.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/fifo_depth64.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/fifo_mux_16_1.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/fifo_mux_2_1.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/fifo_mux_8_1.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/huff_dec.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/l0.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/mac.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/mac_array.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/mac_row.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/mac_tile.v" \
+"../../../../project_v2.srcs/sources_1/imports/verilog/sfp.v" \
+"../../../../project_v2.srcs/sources_1/imports/sources/sram_32b_w2048.v" \
+"../../../../project_v2.srcs/sources_1/new/sram_5b_banked.v" \
+"../../../../project_v2.srcs/sim_1/imports/testbench/core_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

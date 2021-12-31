@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Dec 31 16:35:17 2021
+# Process ID: 7336
+# Current directory: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent31624 C:\Users\KARTHIKEYAN\Documents\Acads\ECE 284\Project\RTL\project_v2\project_v2.xpr
+# Log file: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/vivado.log
+# Journal file: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/project_v2.xpr}
+update_compile_order -fileset sources_1

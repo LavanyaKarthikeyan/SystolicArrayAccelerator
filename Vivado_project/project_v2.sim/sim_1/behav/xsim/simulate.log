@@ -1,0 +1,260 @@
+Time resolution is 1 ps
+t_addr=00000000 
+       x
+t_addr=00000001 
+       0
+t_addr=00000041 
+ 2396745
+t_addr=00000042 
+ 4793490
+t_addr=00000043 
+ 7190235
+t_addr=00000044 
+ 9586980
+t_addr=00000045 
+11983725
+t_addr=00000046 
+       0
+t_addr=0000005a 
+ 2396745
+t_addr=0000005d 
+ 4493897
+t_addr=0000005e 
+ 6591049
+t_addr=0000005f 
+       0
+t_addr=0000014d 
+ 2396745
+t_addr=0000014e 
+ 4793490
+t_addr=0000014f 
+ 7190235
+t_addr=00000150 
+ 9586980
+t_addr=00000151 
+11983725
+t_addr=00000152 
+       0
+t_addr=00000166 
+ 2396745
+t_addr=0000016b 
+       0
+t_addr=00000259 
+ 2396745
+t_addr=0000025a 
+ 4793490
+t_addr=0000025b 
+ 7190235
+t_addr=0000025c 
+ 9586980
+t_addr=0000025d 
+11983725
+t_addr=0000025e 
+       0
+t_addr=00000272 
+ 2396745
+t_addr=00000277 
+       0
+t_addr=00000365 
+ 2396745
+t_addr=00000366 
+ 4793490
+t_addr=00000367 
+ 7190235
+t_addr=00000368 
+ 9586980
+t_addr=00000369 
+11983725
+t_addr=0000036a 
+       0
+t_addr=0000037e 
+ 2396745
+t_addr=00000383 
+       0
+t_addr=00000000 
+       x
+t_addr=00000001 
+       0
+t_addr=00000041 
+ 2396745
+t_addr=00000042 
+ 4793490
+t_addr=00000043 
+ 7190235
+t_addr=00000044 
+ 9586980
+t_addr=00000045 
+11983725
+t_addr=00000046 
+       0
+t_addr=0000005a 
+ 2396745
+t_addr=0000005d 
+ 4493897
+t_addr=0000005e 
+ 6591049
+t_addr=0000005f 
+       0
+t_addr=0000014d 
+ 2396745
+t_addr=0000014e 
+ 4793490
+t_addr=0000014f 
+ 7190235
+t_addr=00000150 
+ 9586980
+t_addr=00000151 
+11983725
+t_addr=00000152 
+       0
+t_addr=00000166 
+ 2396745
+t_addr=0000016b 
+       0
+t_addr=00000259 
+ 2396745
+t_addr=0000025a 
+ 4793490
+t_addr=0000025b 
+ 7190235
+t_addr=0000025c 
+ 9586980
+t_addr=0000025d 
+11983725
+t_addr=0000025e 
+       0
+t_addr=00000272 
+ 2396745
+t_addr=00000277 
+       0
+t_addr=00000365 
+ 2396745
+t_addr=00000366 
+ 4793490
+t_addr=00000367 
+ 7190235
+t_addr=00000368 
+ 9586980
+t_addr=00000369 
+11983725
+t_addr=0000036a 
+       0
+t_addr=0000037e 
+ 2396745
+t_addr=00000383 
+       0
+t_addr=00000471 
+ 2396745
+t_addr=00000472 
+ 4793490
+t_addr=00000473 
+ 7190235
+t_addr=00000474 
+ 9586980
+t_addr=00000475 
+11983725
+t_addr=00000476 
+       0
+t_addr=00000486 
+ 2097152
+t_addr=00000489 
+ 2359296
+t_addr=0000048a 
+ 4493897
+t_addr=0000048b 
+ 6853193
+t_addr=0000048d 
+ 8950345
+t_addr=0000048f 
+       0
+t_addr=0000057d 
+ 2396745
+t_addr=0000057e 
+ 4793490
+t_addr=0000057f 
+ 7190235
+t_addr=00000580 
+ 9586980
+t_addr=00000581 
+11983725
+t_addr=00000582 
+       0
+t_addr=00000596 
+ 2396745
+t_addr=0000059b 
+       0
+t_addr=00000689 
+ 2396745
+t_addr=0000068a 
+ 4793490
+t_addr=0000068b 
+ 7190235
+t_addr=0000068c 
+ 9586980
+t_addr=0000068d 
+11983725
+t_addr=0000068e 
+       0
+t_addr=000006a2 
+ 2396745
+t_addr=000006a7 
+       0
+t_addr=00000795 
+ 2396745
+t_addr=00000796 
+ 4793490
+t_addr=00000797 
+ 7190235
+t_addr=00000798 
+ 9586980
+t_addr=00000799 
+11983725
+t_addr=0000079a 
+       0
+t_addr=000007ab 
+  262144
+t_addr=000007ae 
+ 2396745
+t_addr=000007af 
+ 2658889
+t_addr=000007b3 
+       0
+t_addr=000008a1 
+ 2396745
+t_addr=000008a2 
+ 4793490
+t_addr=000008a3 
+ 7190235
+t_addr=000008a4 
+ 9586980
+t_addr=000008a5 
+11983725
+t_addr=000008a6 
+       0
+t_addr=000008ba 
+ 2396745
+t_addr=000008bf 
+       0
+answer: 0psum0[msb-lsb]#
+answer: 1psum0[msb-lsb]#
+answer: ...............#
+############ Verification Start during accumulation #############
+ 1-th output featuremap Data matched! :D
+ 2-th output featuremap Data matched! :D
+ 3-th output featuremap Data matched! :D
+ 4-th output featuremap Data matched! :D
+ 5-th output featuremap Data matched! :D
+ 6-th output featuremap Data matched! :D
+ 7-th output featuremap Data matched! :D
+ 8-th output featuremap Data matched! :D
+ 9-th output featuremap Data matched! :D
+10-th output featuremap Data matched! :D
+11-th output featuremap Data matched! :D
+12-th output featuremap Data matched! :D
+13-th output featuremap Data matched! :D
+14-th output featuremap Data matched! :D
+15-th output featuremap Data matched! :D
+16-th output featuremap Data matched! :D
+############ No error detected ##############
+########### Project Completed !! ############
+$finish called at time : 2720 ns : File "C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/projec

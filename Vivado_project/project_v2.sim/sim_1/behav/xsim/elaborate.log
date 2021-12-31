@@ -1,0 +1,36 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 1823fb64dc3e4f95bc56fdb3d4396926 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot core_tb_behav xil_defaultlib.core_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/project_v2.srcs/sources_1/imports/sources/Ofifo.v" Line 3. Module ofifo(bw=16) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/project_v2.srcs/sources_1/imports/sources/Ofifo.v" Line 3. Module ofifo(bw=16) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fifo_mux_2_1(bw=4)
+Compiling module xil_defaultlib.fifo_mux_8_1
+Compiling module xil_defaultlib.fifo_mux_16_1
+Compiling module xil_defaultlib.fifo_depth64
+Compiling module xil_defaultlib.l0_default
+Compiling module xil_defaultlib.mac
+Compiling module xil_defaultlib.mac_tile
+Compiling module xil_defaultlib.mac_row_default
+Compiling module xil_defaultlib.mac_array_default
+Compiling module xil_defaultlib.fifo_mux_2_1(bw=16)
+Compiling module xil_defaultlib.fifo_mux_8_1(bw=16)
+Compiling module xil_defaultlib.fifo_mux_16_1(bw=16)
+Compiling module xil_defaultlib.fifo_depth64(bw=16)
+Compiling module xil_defaultlib.ofifo(bw=16)
+Compiling module xil_defaultlib.sfp
+Compiling module xil_defaultlib.huff_dec
+Compiling module xil_defaultlib.corelet_default
+Compiling module xil_defaultlib.sram_w2048(num=1024,addr_bitwidt...
+Compiling module xil_defaultlib.sram_w2048(MEM_BITWIDTH=128)
+Compiling module xil_defaultlib.sram_5b_banked(num=5)
+Compiling module xil_defaultlib.core_default
+Compiling module xil_defaultlib.core_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot core_tb_behav

@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Dec 31 16:35:17 2021
+# Process ID: 7336
+# Current directory: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent31624 C:\Users\KARTHIKEYAN\Documents\Acads\ECE 284\Project\RTL\project_v2\project_v2.xpr
+# Log file: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/vivado.log
+# Journal file: C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/project_v2.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/KARTHIKEYAN/Documents/Acads/ECE 284/Project/RTL/project_v2/project_v2.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2021.1/data/ip'.
+open_project: Time (s): cpu = 00:00:22 ; elapsed = 00:00:11 . Memory (MB): peak = 1254.504 ; gain = 0.000
+update_compile_order -fileset sources_1
